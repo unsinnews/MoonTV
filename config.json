@@ -1,8 +1,17 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "dyttzy",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "name": "taopian"
+    },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8",
       "name": "ruyi"
     }
   }
