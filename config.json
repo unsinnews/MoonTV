@@ -11,7 +11,7 @@
       "name": "taopian"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
       "name": "ruyi"
     }
   }
