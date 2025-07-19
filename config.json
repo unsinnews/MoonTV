@@ -5,6 +5,10 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "dyttzy",
       "detail": "http://caiji.dyttzyapi.com"
+    },
+    "yparse": {
+      "api": "https://api.yparse.com/api/json",
+      "name": "yparse"
     }
   }
 }
