@@ -1,13 +1,9 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "ruyim3u8": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8",
-      "name": "ruyim3u8"
-    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "name": "ruyi"
     }
   }
 }
