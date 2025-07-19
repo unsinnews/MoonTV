@@ -10,9 +10,9 @@
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "name": "taopian"
     },
-    "ruyi": {
+    "ruyim3u8": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml",
-      "name": "ruyi"
+      "name": "ruyim3u8"
     }
   }
 }
